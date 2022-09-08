@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Cuusoo Technical Assessment - Mantel Group Future Associates Program
+# # Weather in Australia
 
 # %% [markdown]
 # 
