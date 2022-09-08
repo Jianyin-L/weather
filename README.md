@@ -10,8 +10,8 @@ b. the top three most common “weather text” for each city
 
 1. Install Dependencies
 
-  `pip3 install -r requirements.txt`
+    `pip3 install -r requirements.txt`
 
 2. Run the following command in your terminal
 
-  `python auto_text.py 10 "text" 50`
+    `python auto_text.py 10 "text" 50`
