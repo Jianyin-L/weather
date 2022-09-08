@@ -1,10 +1,10 @@
 # Weather in Australia
-This project uses python 3.7.8. in Windows system.\
+This project uses python 3.7.8. in Windows system.
 
 ## Purpose
-This is a project to calculate\
-a. the average temperature for each city\
-b. the top three most common “weather text” for each city\
+This is a project to calculate
+a. the average temperature for each city
+b. the top three most common “weather text” for each city
 
 ## To run the script
 
