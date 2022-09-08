@@ -1,5 +1,5 @@
 # Weather in Australia
-This project uses python 3.7.8. in Windows system.
+This project is developed using **python 3.7.8.** in a **Windows** system.
 
 ## Purpose
 This is a project to calculate  
