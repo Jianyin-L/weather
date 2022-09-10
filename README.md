@@ -15,3 +15,5 @@ b. the *top three most common* "weather text" for each city
 2. Run the following command in your terminal
 
     `python weather_proj.py`
+
+Please have a look at the improved version: https://github.com/Jianyin-L/weather2.0
